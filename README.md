@@ -21,14 +21,18 @@ Soy la creadora y autora de **[estrenoslez.com](https://estrenoslez.com/inicio)*
 ### skills
 [![Angular](https://img.shields.io/badge/Angular-7%2B-ff0000?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Ionic](https://img.shields.io/badge/Ionic-3%2B-3880FF?style=for-the-badge&logo=ionic&logoColor=white)]()
-[![Javascript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Javascript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![css3](https://img.shields.io/badge/CSS3-3%2B-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-5%2B-e34c26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-2%2B-0072c6?style=for-the-badge&logo=react&logoColor=white)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-1%2B-4fc08d?style=for-the-badge&logo=vue.js&logoColor=white)]()
 [![Laravel](https://img.shields.io/badge/Laravel-4%2B-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-8%2B-777bb4?style=for-the-badge&logo=php&logoColor=white)]()
 [![Wordpress](https://img.shields.io/badge/WordPress-7%2B-21759b?style=for-the-badge&logo=wordpress&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+
 
 ### Hi there 👋
 
